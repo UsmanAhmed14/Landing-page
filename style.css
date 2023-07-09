@@ -141,3 +141,24 @@ h2{
 .box-blue-msg{
     /* width: 200px; */
 }
+
+
+.third-section{
+    background-color: #E5E7Eb;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.p-third{
+    
+}
