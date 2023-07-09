@@ -4,7 +4,7 @@
 * {
     margin: 0;
     padding: 0;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     }
 
 body{
@@ -188,7 +188,7 @@ h3{
     }
 
 .left{
-    width: 80%;
+    width: 70%;
     margin-left: 100px;
     display: flex;
     flex-direction: column;
@@ -209,4 +209,23 @@ h4{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+}
+
+.btn-last{
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+   
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #E5E7Eb;
+    height: 70px;
 }
