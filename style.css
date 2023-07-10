@@ -231,7 +231,13 @@ h4{
     height: 40px;
     border: 1px solid white;
     border-radius: 10px;
+    transition-duration: 0.4s;
    
+}
+
+.btn-last:hover{
+    background-color:#E5E7Eb; /*Green*/
+    color:#1F2937;
 }
 
 .footer{
